@@ -1,5 +1,5 @@
 ---
-title: 'About Us'
+title: "About Us"
 date: 2018-11-28T15:15:34+10:00
 url: "about"
 menu:
@@ -8,8 +8,8 @@ menu:
     name: "About"
   footer_secondary:
     weight: 2
-description: 'Business plan hackathon handshake responsive web design.'
-image: 'https://source.unsplash.com/ZW6RUvsaFTc/1140x300'
+description: "Business plan hackathon handshake responsive web design."
+image: "images/gen/content/content-6-thumbnail.webp"
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum

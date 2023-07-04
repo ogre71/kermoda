@@ -1,23 +1,23 @@
 ---
-title: 'Hugo Advance'
+title: "Hugo Advance"
 date: 2019-02-22
-description: 'Advance is a multi-purpose premium Hugo theme. Modern design, clean code and highly configurable.'
+description: "Advance is a <strong>multi-purpose premium Hugo theme.</strong> Modern design, clean code and highly configurable."
 header_transparent: true
 hero:
-  background: "images/home/charles-deluvio-Lks7vei-eAg-unsplash-2000.jpg"
+  background: "images/gen/home/home-1-large.webp"
   blend_mode: "overlay"
   theme: "primary"
-services: 
+services:
   enabled: true
   show_view_all: true
   limit: 3
 intro:
   enabled: true
   align: left
-  image: "images/home/kevin-bhagat-zNRITe8NPqY-unsplash-800.jpg"
+  image: "images/gen/content/content-5-thumbnail.webp"
   heading: "We Help Business Grow"
-  description: Our software empowers customers and retailers to work from anywhere in the world, on the go, or at home.
-  button: 
+  description: "Our software empowers customers and retailers to work from anywhere in the world, on the go, or at home."
+  button:
     text: "Buy Now"
     url: "https://www.zerostatic.io/theme/hugo-advance/"
     external: true
@@ -34,7 +34,7 @@ outro:
   image: ""
   heading: Get Started Today
   description: Save time and money using this premium Hugo theme.
-  button: 
+  button:
     text: "Buy Now"
     url: "https://www.zerostatic.io/theme/hugo-advance/"
     external: true

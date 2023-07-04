@@ -1,13 +1,13 @@
 ---
-title: 'Conception de baskets Nike X'
+title: "Conception de baskets Nike X"
 description: "Dans le cadre de la série Nike Young Creators, nous avons conçu une nouvelle sneaker pour la Nike X"
 date: 2018-12-20
 weight: 3
-thumbnail: 'https://source.unsplash.com/164_6wVEHfI/700x800'
+thumbnail: "images/gen/projects/project-3-1-thumbnail.webp"
 header_transparent: true
-portfolio: ['design']
+portfolio: ["design"]
 hero:
-  background: 'https://source.unsplash.com/164_6wVEHfI/1600x900'
+  background: "images/gen/projects/project-3-1.webp"
 work:
   heading: Nike
   heading_label: "Client"
@@ -30,13 +30,13 @@ John Gruber a créé le langage Markdown en 2004 en collaboration avec Aaron Swa
 ## Exemple
 
 ```js
-$(window).scroll(function() {
+$(window).scroll(function () {
   // this will work when your window scrolled.
   var scroll = $(window).scrollTop(); //getting the scrolling height of window
   if (scroll > 100) {
-    $('.header').addClass('header-scrolled');
+    $(".header").addClass("header-scrolled");
   } else {
-    $('.header').removeClass('header-scrolled');
+    $(".header").removeClass("header-scrolled");
   }
 });
 ```
@@ -53,7 +53,7 @@ Il existe plusieurs versions différentes de markdown
 
 En 2017, GitHub a publié une spécification formelle de leur GitHub Flavored Markdown (GFM) basée sur CommonMark. Il suit exactement la spécification CommonMark, sauf pour les tables, les barrés, les liens automatiques et les listes de tâches, que la spécification GitHub a ajoutés en tant qu'extensions. GitHub a également modifié l'analyseur utilisé sur leurs sites en conséquence, ce qui a nécessité la modification de certains documents. Par exemple, GFM exige maintenant que le symbole de hachage qui crée un titre soit séparé du texte de l'en-tête par un caractère espace. L'utilisateur crée le sien.
 
-![écrivez sans crainte](/images/posts/hannah-grace-j9JoYpaJH3A-unsplash-800.jpg)
+![écrivez sans crainte](/images/gen/content/content-1.webp)
 
 ### Markdown Extra
 
@@ -61,10 +61,10 @@ Markdown Extra est un langage de balisage léger basé sur Markdown implémenté
 
 Markdown Extra ajoute les fonctionnalités suivantes à Markdown:
 
-* balisage markdown à l'intérieur des blocs HTML
-* éléments avec attribut id / class
-* "blocs de code clôturés" qui s'étendent sur plusieurs lignes de code
-* tableaux
-* listes de définitions
-* notes de bas de page
-* abréviations
+- balisage markdown à l'intérieur des blocs HTML
+- éléments avec attribut id / class
+- "blocs de code clôturés" qui s'étendent sur plusieurs lignes de code
+- tableaux
+- listes de définitions
+- notes de bas de page
+- abréviations

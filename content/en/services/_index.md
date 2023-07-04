@@ -1,19 +1,19 @@
 ---
-title: 'Services'
-description: 'We deliver a complete range of digital services.'
+title: "Services"
+description: "We deliver a complete range of digital services."
 date: 2018-02-10T11:52:18+07:00
 menu:
   main:
-      identifier: services
-      url: /services/
-      weight: 1
+    identifier: services
+    url: /services/
+    weight: 1
   footer_primary:
-      identifier: services_footer
-      url: /services/
-      weight: 1
+    identifier: services_footer
+    url: /services/
+    weight: 1
 header_transparent: true
 hero:
-  background: "images/services/services-hero-1600.jpg"
+  background: "images/gen/home/home-8-large.webp"
   blend_mode: "overlay"
   theme: "primary"
 ---

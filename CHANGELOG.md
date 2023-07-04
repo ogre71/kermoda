@@ -1,12 +1,53 @@
 ## Changelog
 
+### Version 1.4.3 (Released Feb 24, 2023)
+
+- Minor bug fix
+
+### Version 1.4.2 (Released Feb 24, 2023)
+
+- Upgrade to Bootstrap 5.2
+- Add config option to allow HTML in markdown
+- Improve performance and prevent flickering of dark mode by increasing priority of darkmode javascript snippet in the head.
+
+
+### Version 1.4.1 (Released Jan 23, 2023)
+
+- Improve Google local fonts with more examples
+- Add email link to team bio
+- Improve control over SEO and OG meta tags. Ability to override the title, description and og meta tags on a per page basis via frontmatter. see `content/en/services/web-design.md` for an example. If overrides are not specified, the pages regular title, description and image fields are used as a fallback.
+
+```yaml
+meta: 
+  title: "Web Design Services"
+  description: "We offer the best range of web design services in the area"
+  og_title: "View our web design services"
+  og_image: "images/gen/services/service-12-large.webp"
+  og_description: "Learn about the web design services we offer. It encompasses many different skills and disciplines"
+```
+
+### Version 1.4 (Released Sep 12, 2022)
+
+- Tested with latest Hugo version v0.102.3
+- Update favicons
+- Update image content
+- Fix broken demo content from Unsplash
+
+### Version 1.3.2 (Released June 20, 2022)
+
+- Fix bug when disabling language switcher in header
+
+### Version 1.3.1 (Released April 15, 2022)
+
+- Fixes issue with latest Hugo version 0.96+ .URL error. Hugo versions v0.96+ were no longer running because of deprecated .URL error. Fixed this bug by updating .URL => .Permalink
+
 ### Version 1.3 (Released April 26, 2021)
 
 - Added full multilingual support! 👋 🇦🇺🇪🇸🇫🇷
 - Added multilingual demo content, I chose French, please excuse the poor translations.
 - Added multilingual menus
 - Added language selector dropdown in menu
-- As part of the multilingual implementation, lots of configuration options have been moved from the `config.toml` to the individual markdown files. For example instead of configuring the services page from the config.toml, you now configure it in the service pages front-matter. 
+- As part of the multilingual implementation, lots of configuration options have been moved from the `config.toml` to the individual markdown files. For example instead of configuring the services page from the config.toml, you now configure it in the service pages front-matter.
 - Added support for image, video, figure shortcodes in markdown content
 - Added nested menus
 - Added dark mode

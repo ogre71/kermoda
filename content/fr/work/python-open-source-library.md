@@ -3,18 +3,18 @@ title: "Bibliothèque ML Open Source Python"
 description: "Une bibliothèque d'apprentissage automatique open source écrite en Python"
 date: 2018-12-20
 weight: 2
-thumbnail: 'https://source.unsplash.com/kqNIQX53wSM/700x800'
 header_transparent: true
-portfolio: ['github']
+portfolio: ["github"]
+thumbnail: "images/gen/projects/project-2-1-thumbnail.webp"
 hero:
-    background: 'https://source.unsplash.com/kqNIQX53wSM/1600x900'
-    blend_mode: "overlay"
-    theme: "primary"
+  background: "images/gen/projects/project-2-1.webp"
+  blend_mode: "overlay"
+  theme: "primary"
 work:
-    heading: Tensorflow
-    heading_label: "Client"
-    brief: "L'apprentissage automatique (ML) est l'étude des algorithmes informatiques qui s'améliorent automatiquement grâce à l'expérience et à l'utilisation de données. Il est considéré comme faisant partie de l'intelligence artificielle."
-    link: https://github.com/tensorflow/tensorflow
+  heading: Tensorflow
+  heading_label: "Client"
+  brief: "L'apprentissage automatique (ML) est l'étude des algorithmes informatiques qui s'améliorent automatiquement grâce à l'expérience et à l'utilisation de données. Il est considéré comme faisant partie de l'intelligence artificielle."
+  link: https://github.com/tensorflow/tensorflow
 ---
 
 Markdown est un langage de balisage léger avec une syntaxe de formatage de texte brut. Sa conception lui permet d'être converti en de nombreux formats de sortie, mais l'outil d'origine du même nom ne prend en charge que le HTML. Markdown est souvent utilisé pour formater des fichiers Lisez-moi, pour écrire des messages dans des forums de discussion en ligne et pour créer du texte enrichi à l'aide d'un éditeur de texte brut.
@@ -32,13 +32,13 @@ John Gruber a créé le langage Markdown en 2004 en collaboration avec Aaron Swa
 ## Exemple
 
 ```js
-$(window).scroll(function() {
+$(window).scroll(function () {
   // this will work when your window scrolled.
   var scroll = $(window).scrollTop(); //getting the scrolling height of window
   if (scroll > 100) {
-    $('.header').addClass('header-scrolled');
+    $(".header").addClass("header-scrolled");
   } else {
-    $('.header').removeClass('header-scrolled');
+    $(".header").removeClass("header-scrolled");
   }
 });
 ```
@@ -55,7 +55,7 @@ Il existe plusieurs versions différentes de markdown
 
 En 2017, GitHub a publié une spécification formelle de leur GitHub Flavored Markdown (GFM) basée sur CommonMark. Il suit exactement la spécification CommonMark, sauf pour les tables, les barrés, les liens automatiques et les listes de tâches, que la spécification GitHub a ajoutés en tant qu'extensions. GitHub a également modifié l'analyseur utilisé sur leurs sites en conséquence, ce qui a nécessité la modification de certains documents. Par exemple, GFM exige maintenant que le symbole de hachage qui crée un titre soit séparé du texte de l'en-tête par un caractère espace. L'utilisateur crée le sien.
 
-![écrivez sans crainte](/images/posts/hannah-grace-j9JoYpaJH3A-unsplash-800.jpg)
+![écrivez sans crainte](/images/gen/content/content-1.webp)
 
 ### Markdown Extra
 
@@ -63,10 +63,10 @@ Markdown Extra est un langage de balisage léger basé sur Markdown implémenté
 
 Markdown Extra ajoute les fonctionnalités suivantes à Markdown:
 
-* balisage markdown à l'intérieur des blocs HTML
-* éléments avec attribut id / class
-* "blocs de code clôturés" qui s'étendent sur plusieurs lignes de code
-* tableaux
-* listes de définitions
-* notes de bas de page
-* abréviations
+- balisage markdown à l'intérieur des blocs HTML
+- éléments avec attribut id / class
+- "blocs de code clôturés" qui s'étendent sur plusieurs lignes de code
+- tableaux
+- listes de définitions
+- notes de bas de page
+- abréviations

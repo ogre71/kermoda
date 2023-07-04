@@ -1,19 +1,25 @@
 ---
-title: 'Web Design'
-description: 'Design beautiful modern websites using the Jamstack.'
+title: "Web Design"
+description: "Design beautiful modern websites using the Jamstack."
 date: 2018-11-28T15:15:34+10:00
+meta: 
+  title: "Web Design Services"
+  description: "We offer the best range of web design services in the area"
+  og_title: "View our web design services"
+  og_image: "images/gen/services/service-12-large.webp"
+  og_description: "Learn about the web design services we offer. It encompasses many different skills and disciplines"
 menu:
   main:
-    weight: 2
+    weight: 1
     parent: "services"
-weight: 2
+weight: 1
 header_transparent: true
-icon: 'images/services/icons8-web_design.png'
-thumbnail: 'https://source.unsplash.com/ubIWo074QlU/640x360'
+icon: "images/icons/icons8-web_design.png"
+thumbnail: "images/gen/services/service-1-thumbnail.webp"
 image: ""
 hero:
-  background: 'https://source.unsplash.com/ubIWo074QlU/1600x900'
-  blend_mode: "overlay"
+  background: "images/gen/services/service-1.webp"
+  blend_mode: ""
   theme: "primary"
 ---
 
@@ -25,12 +31,11 @@ Often many individuals will work in teams covering different aspects of the desi
 
 ## What is Web Design?
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use. 
+User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
 
-The Why involves the users’ motivations for adopting a product, whether they relate to a task they wish to perform with it or to values and views which users associate with the ownership and use of the product. 
+The Why involves the users’ motivations for adopting a product, whether they relate to a task they wish to perform with it or to values and views which users associate with the ownership and use of the product.
 
-{{< figure src="/images/services/balazs-ketyi-b9rPuUQ_YSs-unsplash.jpg" title="Steve Francia"  caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank">}}
-
+{{< figure src="/images/gen/content/content-2.webp" title="Steve Francia"  caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank">}}
 
 ## Front-end Development
 
@@ -48,12 +53,12 @@ A Design System is a set of interconnected patterns and shared practices coheren
 
 ## Process
 
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page. 
+There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
 
-* User experience research
-* Visual design and illustration
-* Programming and coding
+- User experience research
+- Visual design and illustration
+- Programming and coding
 
-![Design In Figma](/images/services/balazs-ketyi-6yMb5V8L34o-unsplash.jpg)
+![Design In Figma](/images/gen/content/content-3.webp)
 
 Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another. Particularly in smaller organizations, one person will need the necessary skills for designing and programming the full web page, while larger organizations may have a web designer responsible for the visual aspect alone.

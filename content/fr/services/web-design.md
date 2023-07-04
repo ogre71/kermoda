@@ -1,5 +1,5 @@
 ---
-title: 'Création de sites web'
+title: "Création de sites web"
 description: "Concevez de superbes sites Web modernes à l'aide de Jamstack."
 date: 2018-11-28T15:15:34+10:00
 menu:
@@ -8,12 +8,12 @@ menu:
     parent: "services"
 weight: 2
 header_transparent: true
-icon: 'images/services/icons8-web_design.png'
-thumbnail: 'https://source.unsplash.com/ubIWo074QlU/640x360'
+icon: "images/icons/icons8-web_design.png"
+thumbnail: "images/gen/services/service-1-thumbnail.webp"
 image: ""
 hero:
-  background: 'https://source.unsplash.com/ubIWo074QlU/1600x900'
-  blend_mode: "overlay"
+  background: "images/gen/services/service-1.webp"
+  blend_mode: ""
   theme: "primary"
 ---
 
@@ -27,8 +27,7 @@ Souvent, de nombreuses personnes travailleront en équipes couvrant différents 
 
 L'expérience utilisateur concerne la manière dont un utilisateur interagit avec un produit, un système ou un service particulier et en fait l'expérience. En tant que concepteur UX, vous devez tenir compte du pourquoi, du quoi et du comment de l'utilisation du produit.
 
-{{< figure src="/images/services/balazs-ketyi-b9rPuUQ_YSs-unsplash.jpg" title="Steve Francia" caption="Conception à Figma" alt="Photo de conception d'un site Web à Figma" link="https://figma.com" target="_blank">}}
-
+{{< figure src="/images/gen/content/content-2.webp" title="Steve Francia" caption="Conception à Figma" alt="Photo de conception d'un site Web à Figma" link="https://figma.com" target="_blank">}}
 
 ## Développement front-end
 
@@ -48,10 +47,10 @@ Un système de conception est un ensemble de modèles interconnectés et de prat
 
 Il y a deux emplois principaux impliqués dans la création d'un site Web: le concepteur Web et le développeur Web, qui travaillent souvent en étroite collaboration sur un site Web. Les concepteurs Web sont responsables de l'aspect visuel, qui comprend la mise en page, la coloration et la typographie d'une page Web.
 
-* Recherche d'expérience utilisateur
-* Conception visuelle et illustration
-* Programmation et codage
+- Recherche d'expérience utilisateur
+- Conception visuelle et illustration
+- Programmation et codage
 
-![Conception à Figma](/images/services/balazs-ketyi-6yMb5V8L34o-unsplash.jpg)
+![Conception à Figma](/images/gen/content/content-3.webp)
 
 Les concepteurs Web auront également une connaissance pratique des langages de balisage tels que HTML et CSS, bien que l'étendue de leurs connaissances différera d'un concepteur Web à l'autre.

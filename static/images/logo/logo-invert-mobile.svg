@@ -1,6 +1,1 @@
-<svg width="54" height="54" xmlns="http://www.w3.org/2000/svg">
-    <g fill-rule="nonzero" stroke="#fff" stroke-width="4" fill="none">
-        <path d="M2 2h50v50H2z"/>
-        <path d="M2.545 51.932l24.87-46.61 23.495 46.61"/>
-    </g>
-</svg>
+<svg height="54" width="54" xmlns="http://www.w3.org/2000/svg"><g fill="none" stroke="#fff" stroke-width="4"><path d="m2 2h50v50h-50z"/><path d="m2.545 51.932 24.87-46.61 23.495 46.61"/></g></svg>

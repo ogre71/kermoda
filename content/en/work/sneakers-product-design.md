@@ -1,13 +1,13 @@
 ---
-title: 'Nike X Trainers Design'
+title: "Nike X Trainers Design"
 description: "As part of the Nike young creators series, we designed a new sneaker for the Nike X"
 date: 2018-12-20
 weight: 3
-thumbnail: 'https://source.unsplash.com/164_6wVEHfI/700x800'
+thumbnail: "images/gen/projects/project-3-1-thumbnail.webp"
 header_transparent: true
-portfolio: ['design']
+portfolio: ["design"]
 hero:
-  background: 'https://source.unsplash.com/164_6wVEHfI/1600x900'
+  background: "images/gen/projects/project-3-1.webp"
 work:
   heading: Nike
   heading_label: "Client"
@@ -21,7 +21,7 @@ Since the initial description of Markdown contained ambiguities and unanswered q
 
 ## History
 
-John Gruber created the Markdown language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format". Its key design goal is readability. That the language be readable as-is. 
+John Gruber created the Markdown language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format". Its key design goal is readability. That the language be readable as-is.
 
 > To write using an easy-to-read and easy-to-write plain text format
 
@@ -30,13 +30,13 @@ To this end, its main inspiration is the existing conventions for marking up pla
 ## Example
 
 ```js
-$(window).scroll(function() {
+$(window).scroll(function () {
   // this will work when your window scrolled.
   var scroll = $(window).scrollTop(); //getting the scrolling height of window
   if (scroll > 100) {
-    $('.header').addClass('header-scrolled');
+    $(".header").addClass("header-scrolled");
   } else {
-    $('.header').removeClass('header-scrolled');
+    $(".header").removeClass("header-scrolled");
   }
 });
 ```
@@ -53,7 +53,7 @@ From 2012, a group of people including Jeff Atwood and John MacFarlane launched 
 
 In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.
 
-![écrivez sans crainte](/images/posts/hannah-grace-j9JoYpaJH3A-unsplash-800.jpg)
+![écrivez sans crainte](/images/gen/content/content-1.webp)
 
 ### Markdown Extra
 
@@ -61,10 +61,10 @@ Markdown Extra is a lightweight markup language based on Markdown implemented in
 
 Markdown Extra adds the following features to Markdown:
 
-* markdown markup inside HTML blocks
-* elements with id/class attribute
-* "fenced code blocks" that span multiple lines of code
-* tables
-* definition lists
-* footnotes
-* abbreviations
+- markdown markup inside HTML blocks
+- elements with id/class attribute
+- "fenced code blocks" that span multiple lines of code
+- tables
+- definition lists
+- footnotes
+- abbreviations

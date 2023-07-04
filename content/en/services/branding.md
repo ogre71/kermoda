@@ -1,17 +1,16 @@
 ---
-title: 'Branding'
-description: 'The expression of a brand including its name, trademark, and visual appearance.'
+title: "Branding"
+description: "The expression of a brand including its name, trademark, and visual appearance."
 date: 2019-10-03
 menu:
   main:
     weight: 4
     parent: "services"
 weight: 4
-icon: 'images/services/icons8-adobe_indesign.png'
-thumbnail: 'https://source.unsplash.com/hqCEQTc5gZA/640x360'
-image: 'https://source.unsplash.com/hqCEQTc5gZA/640x450'
+icon: "images/icons/icons8-adobe_indesign.png"
+thumbnail: "images/gen/services/service-3-thumbnail.webp"
 hero:
-  background: ""
+  background: "images/gen/services/service-3.webp"
   blend_mode: "normal"
   theme: "base"
 ---
@@ -24,12 +23,11 @@ Often many individuals will work in teams covering different aspects of the desi
 
 ## What is Web Design?
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use. 
+User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
 
-The Why involves the users’ motivations for adopting a product, whether they relate to a task they wish to perform with it or to values and views which users associate with the ownership and use of the product. 
+The Why involves the users’ motivations for adopting a product, whether they relate to a task they wish to perform with it or to values and views which users associate with the ownership and use of the product.
 
-{{< figure src="/images/services/balazs-ketyi-b9rPuUQ_YSs-unsplash.jpg" title="Steve Francia"  caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank">}}
-
+{{< figure src="/images/gen/content/content-2.webp" title="Steve Francia"  caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank">}}
 
 ## Front-end Development
 
@@ -47,12 +45,12 @@ A Design System is a set of interconnected patterns and shared practices coheren
 
 ## Process
 
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page. 
+There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
 
-* User experience research
-* Visual design and illustration
-* Programming and coding
+- User experience research
+- Visual design and illustration
+- Programming and coding
 
-![Design In Figma](/images/services/balazs-ketyi-6yMb5V8L34o-unsplash.jpg)
+![Design In Figma](/images/gen/content/content-3.webp)
 
 Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another. Particularly in smaller organizations, one person will need the necessary skills for designing and programming the full web page, while larger organizations may have a web designer responsible for the visual aspect alone.

@@ -1,9 +1,9 @@
 [context.production.environment]
-  HUGO_VERSION = "0.80.0"
-  HUGO_GOOGLE_ANALYTICS_ID = "GA-XX"
+  HUGO_VERSION = "0.102.3"
+  HUGO_GOOGLE_ANALYTICS_ID = ""
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.80.0"
+  HUGO_VERSION = "0.102.3"
 
-[context.branch-deploy.environment] 
-  HUGO_VERSION = "0.80.0"
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.102.3"

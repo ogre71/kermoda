@@ -2,7 +2,8 @@
 
 Hugo Advance is a premium, multi-purpose Hugo theme.
 
-[Live Demo](https://hugo-advance.netlify.app/) | [Live Docs](https://www.zerostatic.io/docs/hugo-advance/v1.3/install-theme/)
+- [Demo](https://hugo-advance.netlify.app/)
+- [Documentation](https://www.zerostatic.io/docs/hugo-advance)
 
 ![Hugo Advance Theme screenshot](https://www.zerostatic.io/theme/hugo-advance/hugo-advance-screenshot.png)
 
