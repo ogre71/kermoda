@@ -2,25 +2,36 @@
 title: "Web Design"
 description: "Design beautiful modern websites using the Jamstack."
 date: 2018-11-28T15:15:34+10:00
+weight: 5
+
+header_transparent: true
+
 meta: 
   title: "Web Design Services"
   description: "We offer the best range of web design services in the area"
   og_title: "View our web design services"
-  og_image: "images/gen/services/service-12-large.webp"
+  og_image: "images/photos/services/service-12-large.webp"
   og_description: "Learn about the web design services we offer. It encompasses many different skills and disciplines"
+
 menu:
   main:
-    weight: 1
+    weight: 5
     parent: "services"
-weight: 1
-header_transparent: true
-icon: "images/icons/icons8-web_design.png"
-thumbnail: "images/gen/services/service-1-thumbnail.webp"
+    params:
+      icon: "images/icons/icons8-design-100.png"
+
+icon: "images/icons/icons8-design-100.png"
+thumbnail: "images/photos/services/web-design-thumbnail.webp"
 image: ""
+
 hero:
-  background: "images/gen/services/service-1.webp"
-  blend_mode: ""
-  theme: "primary"
+  headings:
+    heading: "Web Design"
+    sub_heading: "Design beautiful modern websites using the Jamstack."
+  background:
+    background_image: "images/photos/services/web-design-large.webp"
+    background_image_blend_mode: "overlay"
+    background_gradient: true
 ---
 
 # Creating Modern Websites
@@ -35,7 +46,7 @@ User experience is about how a user interacts with, and experiences, a particula
 
 The Why involves the users’ motivations for adopting a product, whether they relate to a task they wish to perform with it or to values and views which users associate with the ownership and use of the product.
 
-{{< figure src="/images/gen/content/content-2.webp" title="Steve Francia"  caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank">}}
+{{< framework/figure src="/images/photos/content/content-1.webp" title="Steve Francia"  caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank">}}
 
 ## Front-end Development
 
@@ -49,7 +60,7 @@ Web designers are expected to have an awareness of usability and if their role i
 
 A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
 
-{{< youtube 2M6dJ2Uynhg >}}
+{{< framework/youtube 2M6dJ2Uynhg >}}
 
 ## Process
 
@@ -59,6 +70,6 @@ There are two primary jobs involved in creating a website: the web designer and 
 - Visual design and illustration
 - Programming and coding
 
-![Design In Figma](/images/gen/content/content-3.webp)
+![Design In Figma](/images/photos/content/content-1.webp)
 
 Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another. Particularly in smaller organizations, one person will need the necessary skills for designing and programming the full web page, while larger organizations may have a web designer responsible for the visual aspect alone.

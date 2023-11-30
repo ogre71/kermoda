@@ -2,19 +2,29 @@
 title: "Web Development"
 description: "Our experienced software engineers develop websites and desktop applications"
 date: 2018-11-28T15:14:54+10:00
+weight: 1
+
+header_transparent: true
+
 menu:
   main:
-    weight: 2
+    weight: 1
     parent: "services"
-weight: 2
-header_transparent: true
-icon: "images/icons/icons8-source_code.png"
-thumbnail: "images/gen/services/service-8-thumbnail.webp"
+    params:
+      icon: "images/icons/icons8-source-code-100.png"
+
+icon: "images/icons/icons8-source-code-100.png"
+thumbnail: "images/photos/services/web-development-thumbnail.webp"
 image: ""
+
 hero:
-  background: "images/gen/services/service-8.webp"
-  blend_mode: ""
-  theme: ""
+  headings:
+    heading: "Web Development"
+    sub_heading: "Our experienced software engineers develop websites and desktop applications"
+  background:
+    background_image: "images/photos/services/web-development-large.webp"
+    background_image_blend_mode: "overlay"
+    background_gradient: true
 ---
 
 # Creating Modern Websites
@@ -27,7 +37,7 @@ Often many individuals will work in teams covering different aspects of the desi
 
 User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
 
-{{< figure src="/images/gen/content/content-2.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank">}}
+{{< framework/figure src="/images/photos/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank">}}
 
 ## Front-end Development
 
@@ -41,7 +51,7 @@ Web designers are expected to have an awareness of usability and if their role i
 
 A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
 
-{{< youtube 2M6dJ2Uynhg >}}
+{{< framework/youtube 2M6dJ2Uynhg >}}
 
 ## Process
 
@@ -51,6 +61,6 @@ There are two primary jobs involved in creating a website: the web designer and 
 - Visual design and illustration
 - Programming and coding
 
-![Design In Figma](/images/gen/content/content-3.webp)
+![Design In Figma](/images/photos/content/content-1.webp)
 
 Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.

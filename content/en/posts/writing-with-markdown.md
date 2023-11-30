@@ -5,8 +5,8 @@ authors: ["Sage Kirk"]
 tags: ["Tutorials"]
 categories: ["Development", "Javascript"]
 description: Learn how to use Markdown to write blog posts. Understand front-matter and how it is used in templates.
-thumbnail: "images/gen/blog/blog-4-thumbnail.webp"
-image: "images/gen/blog/blog-4.webp"
+thumbnail: "images/photos/blog/blog-4-thumbnail.webp"
+image: "images/photos/blog/blog-4-large.webp"
 ---
 
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
@@ -25,8 +25,7 @@ To this end, its main inspiration is the existing conventions for marking up pla
 
 ```js
 $(window).scroll(function () {
-  // this will work when your window scrolled.
-  var scroll = $(window).scrollTop(); //getting the scrolling height of window
+  var scroll = $(window).scrollTop();
   if (scroll > 100) {
     $(".header").addClass("header-scrolled");
   } else {
@@ -48,7 +47,7 @@ From 2012, a group of people including Jeff Atwood and John MacFarlane launched 
 
 In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.
 
-![écrivez sans crainte](/images/gen/content/content-1.webp)
+![écrivez sans crainte](/images/photos/content/content-1.webp)
 
 ### Markdown Extra
 

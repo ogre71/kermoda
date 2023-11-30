@@ -1,17 +1,20 @@
 ---
-title: "Travail"
-description: "Une sélection de nos projets open source, portefeuille clients et papiers techniques"
+title: "Work"
+description: "A selection of our open source projects, client portfolio and technical papers"
 date: 2018-02-10T11:52:18+07:00
-summary_type: "summary-background"
-header_transparent: false
-menu:
-  main:
-    weight: 2
-  footer_primary:
-    weight: 2
-thumbnail: "images/gen/home/home-9-thumbnail.webp"
+
+header_transparent: true
+
 hero:
-  background: "images/gen/home/home-9-large.webp"
-  blend_mode: "overlay"
-  theme: "primary"
+  headings:
+    heading: "Our Work"
+    sub_heading: "A selection of our open-source and client projects."
+  background:
+    background_image: "images/photos/home/projects-large.webp"
+    background_image_blend_mode: "overlay"
+    background_gradient: true
 ---
+
+# We create brands and engage audiences.
+
+Incubator niche market launch party return on investment alpha ramen startup iteration business-to-consumer MVP influencer vesting period crowdsource leverage. Beta alpha technology metrics backing paradigm shift startup.

@@ -1,57 +1,69 @@
 ---
-title: "Expérience utilisateur"
-description: "Comprendre les besoins de l'utilisateur et créer des solutions produits."
+title: "User Experience"
+description: "Understanding the needs of the user and creating product solutions."
 date: 2018-11-28T15:15:34+10:00
+weight: 6
+
+header_transparent: true
+
 menu:
   main:
     name: "UX"
-    weight: 3
+    weight: 6
     parent: "services"
-weight: 3
-header_transparent: false
-icon: "images/icons/icons8-protect_from_magnetic_field.png"
-thumbnail: "images/gen/services/service-2-thumbnail.webp"
+    params:
+      icon: "images/icons/icons8-user-engagement-male-100.png"
+
 image: ""
+thumbnail: "images/photos/services/user-experience-thumbnail.webp"
+icon: "images/icons/icons8-user-engagement-male-100.png"
+
 hero:
-  background: "images/gen/services/service-2.webp"
-  blend_mode: ""
-  theme: "primary"
+  headings:
+    heading: "User Experience"
+    sub_heading: "Understanding the needs of the user and creating product solutions."
+  background:
+    background_image: "images/photos/services/user-experience-large.webp"
+    background_image_blend_mode: "overlay"
+    background_gradient: true
 ---
 
-# Création de sites Web modernes
+# Creating Modern Websites
 
-La conception Web englobe de nombreuses compétences et disciplines différentes dans la production et la maintenance de sites Web.
+Web design encompasses many different skills and disciplines in the production and maintenance of websites.
 
-Souvent, de nombreuses personnes travailleront en équipes couvrant différents aspects du processus de conception, bien que certains concepteurs les couvrent tous. La conception Web chevauche partiellement l'ingénierie Web dans le cadre plus large du développement Web.
+Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
 
-## Qu'est-ce que la conception Web?
+## What is Web Design?
 
-L'expérience utilisateur concerne la manière dont un utilisateur interagit avec un produit, un système ou un service particulier et en fait l'expérience. En tant que concepteur UX, vous devez tenir compte du pourquoi, du quoi et du comment de l'utilisation du produit.
+User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
 
-{{< figure src="/images/gen/content/content-2.webp" title="Steve Francia" caption="Conception à Figma" alt="Photo de conception d'un site Web à Figma" link="https://figma.com" target="_blank">}}
+The Why involves the users’ motivations for adopting a product, whether they relate to a task they wish to perform with it or to values and views which users associate with the ownership and use of the product.
 
-## Développement front-end
+{{< framework/figure src="/images/photos/content/content-1.webp" title="Steve Francia"  caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank">}}
 
-Ce qui traite des choses que les gens peuvent faire avec un produit - ses fonctionnalités Enfin, le How concerne la conception de la fonctionnalité d'une manière accessible et esthétiquement agréable. Les concepteurs UX commencent par le pourquoi avant de déterminer le quoi puis, enfin, le comment afin de créer des produits avec lesquels les utilisateurs peuvent former des expériences significatives. Dans la conception de logiciels, vous devrez vous assurer que la «substance» du produit passe par un appareil existant et offre une expérience fluide et fluide.
+## Front-end Development
 
-> En tant que concepteur UX, vous devez tenir compte du pourquoi, du quoi et du comment de l'utilisation du produit.
+The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
 
-On s'attend à ce que les concepteurs Web soient conscients de la convivialité et si leur rôle consiste à créer du balisage, ils doivent également être à jour avec les directives d'accessibilité Web.
+> As a UX designer, you should consider the Why, What and How of product use.
 
-## Systèmes de conception
+Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
 
-Un système de conception est un ensemble de modèles interconnectés et de pratiques partagées organisés de manière cohérente pour aider à la conception de produits numériques et au développement de produits tels que des applications ou des sites Web.
+## Design Systems
 
-{{< youtube 2M6dJ2Uynhg >}}
+A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
 
-## Traiter
+{{< framework/youtube 2M6dJ2Uynhg >}}
 
-Il y a deux emplois principaux impliqués dans la création d'un site Web: le concepteur Web et le développeur Web, qui travaillent souvent en étroite collaboration sur un site Web. Les concepteurs Web sont responsables de l'aspect visuel, qui comprend la mise en page, la coloration et la typographie d'une page Web.
+## Process
 
-- Recherche d'expérience utilisateur
-- Conception visuelle et illustration
-- Programmation et codage
+There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
 
-![Conception à Figma](/images/gen/content/content-3.webp)
+- User experience research
+- Visual design and illustration
+- Programming and coding
 
-Les concepteurs Web auront également une connaissance pratique des langages de balisage tels que HTML et CSS, bien que l'étendue de leurs connaissances différera d'un concepteur Web à l'autre.
+![Design In Figma](/images/photos/content/content-1.webp)
+
+Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another. Particularly in smaller organizations, one person will need the necessary skills for designing and programming the full web page, while larger organizations may have a web designer responsible for the visual aspect alone.

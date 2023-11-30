@@ -1,17 +1,17 @@
 ---
 title: "Blog"
-description: "Les dernières actualités et opinions"
+description: "The latest news and opinions"
 date: 2019-02-10
 url: "blog"
-menu:
-  main:
-    weight: 4
-  footer_secondary:
-    weight: 1
-summary_type: "summary-row"
-header_transparent: false
+
+header_transparent: true
+
 hero:
-  background: ""
-  blend_mode: "normal"
-  theme: "base"
+  headings:
+    heading: "Blog"
+    sub_heading: "The latest news and opinions"
+  background:
+    background_image: "images/photos/home/blog-large.webp"
+    background_image_blend_mode: "overlay"
+    background_gradient: true
 ---

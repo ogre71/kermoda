@@ -13,7 +13,7 @@ Make sure you have Hugo installed - For more information read the official [setu
 
 ## Getting started
 
-Unzip the hugo advance pro zip file. It already contains the Hugo site and theme. All content is ready to go.
+Unzip the .zip file. It already contains the Hugo site and theme. All content is ready to go.
 
 Inside the unzipped folder run:
 

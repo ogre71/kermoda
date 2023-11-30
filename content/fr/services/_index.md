@@ -1,23 +1,20 @@
 ---
-title: 'Un service'
-description: "Nous proposons une gamme complète de services numériques."
+title: "Services"
+description: "We deliver a complete range of digital services."
 date: 2018-02-10T11:52:18+07:00
-menu:
-  main:
-    identifier: services
-    url: /services/
-    weight: 1
-  footer_primary:
-    identifier: services_footer
-    url: /services/
-    weight: 1
+
 header_transparent: true
+
 hero:
-  background: "/services/services-hero-1600.jpg"
-  blend_mode: "overlay"
-  theme: "primary"
+  headings:
+    heading: "Services"
+    sub_heading: "We deliver a complete range of digital services."
+  background:
+    background_image: "images/photos/home/services-large.webp"
+    background_image_blend_mode: "overlay"
+    background_gradient: true
 ---
 
-# Nous créons des marques et engageons le public
+# We create brands and engage audiences.
 
 Incubator niche market launch party return on investment alpha ramen startup iteration business-to-consumer MVP influencer vesting period crowdsource leverage. Beta alpha technology metrics backing paradigm shift startup.

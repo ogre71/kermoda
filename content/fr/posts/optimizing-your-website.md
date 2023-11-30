@@ -1,30 +1,29 @@
 ---
-title: "Optimiser votre site Web"
+title: "Optimizing Your Website"
 date: 2018-12-20T09:38:03+10:00
-categories: ["Development", "Branding", "Web Design"]
-description: "S'assurer que votre site Web fonctionne rapidement et se charge rapidement est une partie fondamentale du processus de conception Web et de référencement."
-thumbnail: "images/gen/blog/blog-3-thumbnail.webp"
-image: "images/gen/blog/blog-3.webp"
+categories: ["Development", "Web Design"]
+description: "Making sure your website runs fast and loads quickly is a fundamental part of the web design and seo process."
+thumbnail: "images/photos/blog/blog-3-thumbnail.webp"
+image: "images/photos/blog/blog-3-large.webp"
 ---
 
-Markdown est un langage de balisage léger avec une syntaxe de formatage de texte brut. Sa conception lui permet d'être converti en de nombreux formats de sortie, mais l'outil d'origine du même nom ne prend en charge que le HTML. Markdown est souvent utilisé pour formater des fichiers Lisez-moi, pour écrire des messages dans des forums de discussion en ligne et pour créer du texte enrichi à l'aide d'un éditeur de texte brut.
+Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
-Étant donné que la description initiale de Markdown contenait des ambiguïtés et des questions sans réponse, les implémentations qui sont apparues au fil des ans ont des différences subtiles et beaucoup viennent avec des extensions de syntaxe.
+Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.
 
-## Histoire
+## History
 
-John Gruber a créé le langage Markdown en 2004 en collaboration avec Aaron Swartz sur la syntaxe, dans le but de permettre aux gens «d'écrire en utilisant un format de texte brut facile à lire et à écrire». Son objectif de conception clé est la lisibilité. Que la langue soit lisible telle quelle.
+John Gruber created the Markdown language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format". Its key design goal is readability. That the language be readable as-is.
 
-> Pour écrire en utilisant un format de texte brut facile à lire et à écrire
+> To write using an easy-to-read and easy-to-write plain text format
 
-À cette fin, son inspiration principale est les conventions existantes pour le balisage du texte brut dans les e-mails, bien qu'il s'inspire également des langages de balisage antérieurs, notamment setext, Textile et reStructuredText.
+To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.
 
-## Exemple
+## Example
 
 ```js
 $(window).scroll(function () {
-  // this will work when your window scrolled.
-  var scroll = $(window).scrollTop(); //getting the scrolling height of window
+  var scroll = $(window).scrollTop();
   if (scroll > 100) {
     $(".header").addClass("header-scrolled");
   } else {
@@ -33,30 +32,31 @@ $(window).scroll(function () {
 });
 ```
 
-## Saveurs Markdown
+## Markdown Flavours
 
-Il existe plusieurs versions différentes de markdown
+There are several different versions of markdown
 
 ### CommonMark
 
-À partir de 2012, un groupe de personnes comprenant Jeff Atwood et John MacFarlane a lancé ce qu'Atwood a qualifié d'effort de normalisation. Un site Web communautaire vise désormais à «documenter divers outils et ressources disponibles pour les auteurs et développeurs de documents, ainsi que pour les implémenteurs des différentes implémentations de démarques».
+<strong>You can also render HTML directly from markdown</strong>
+From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to "document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations".
 
 ### GitHub Flavored Markdown (GFM)
 
-En 2017, GitHub a publié une spécification formelle de leur GitHub Flavored Markdown (GFM) basée sur CommonMark. Il suit exactement la spécification CommonMark, sauf pour les tables, les barrés, les liens automatiques et les listes de tâches, que la spécification GitHub a ajoutés en tant qu'extensions. GitHub a également modifié l'analyseur utilisé sur leurs sites en conséquence, ce qui a nécessité la modification de certains documents. Par exemple, GFM exige maintenant que le symbole de hachage qui crée un titre soit séparé du texte de l'en-tête par un caractère espace. L'utilisateur crée le sien.
+In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.
 
-![écrivez sans crainte](/images/gen/content/content-1.webp)
+![écrivez sans crainte](/images/photos/content/content-1.webp)
 
 ### Markdown Extra
 
-Markdown Extra est un langage de balisage léger basé sur Markdown implémenté en PHP (à l'origine), Python et Ruby. Il ajoute des fonctionnalités non disponibles avec la syntaxe Markdown simple. Markdown Extra est pris en charge dans certains systèmes de gestion de contenu tels que, par exemple, Drupal.
+Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), Python and Ruby. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.
 
-Markdown Extra ajoute les fonctionnalités suivantes à Markdown:
+Markdown Extra adds the following features to Markdown:
 
-- balisage markdown à l'intérieur des blocs HTML
-- éléments avec attribut id / class
-- "blocs de code clôturés" qui s'étendent sur plusieurs lignes de code
-- tableaux
-- listes de définitions
-- notes de bas de page
-- abréviations
+- markdown markup inside HTML blocks
+- elements with id/class attribute
+- "fenced code blocks" that span multiple lines of code
+- tables
+- definition lists
+- footnotes
+- abbreviations

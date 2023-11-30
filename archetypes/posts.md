@@ -5,8 +5,8 @@ draft: false
 authors: ['Mike Vance']
 categories: ['Branding']
 description: Branding is an intrinsic part of your companies success, learn why your brand matters.
-thumbnail: "images/gen/blog/blog-1-thumbnail.webp"
-image: "images/gen/blog/blog-1.webp"
+thumbnail: "images/photos/blog/blog-1-thumbnail.webp"
+image: "images/photos/blog/blog-1.webp"
 ---
 
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
@@ -47,7 +47,7 @@ From 2012, a group of people including Jeff Atwood and John MacFarlane launched 
 
 In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.
 
-![écrivez sans crainte](/images/gen/content/content-1.webp)
+![écrivez sans crainte](/images/photos/content/content-1.webp)
 
 ### Markdown Extra
 

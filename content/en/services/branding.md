@@ -2,17 +2,22 @@
 title: "Branding"
 description: "The expression of a brand including its name, trademark, and visual appearance."
 date: 2019-10-03
-menu:
-  main:
-    weight: 4
-    parent: "services"
 weight: 4
-icon: "images/icons/icons8-adobe_indesign.png"
-thumbnail: "images/gen/services/service-3-thumbnail.webp"
+
+header_transparent: true
+
+image: ""
+thumbnail: "images/photos/services/branding-large.webp"
+icon: "images/icons/icons8-color-palette-100.png"
+
 hero:
-  background: "images/gen/services/service-3.webp"
-  blend_mode: "normal"
-  theme: "base"
+  headings:
+    heading: "Branding"
+    sub_heading: "The expression of a brand including its name, trademark, and visual appearance."
+  background:
+    background_image: "images/photos/services/branding-large.webp"
+    background_image_blend_mode: "overlay"
+    background_gradient: true
 ---
 
 # Creating Modern Websites
@@ -27,7 +32,7 @@ User experience is about how a user interacts with, and experiences, a particula
 
 The Why involves the users’ motivations for adopting a product, whether they relate to a task they wish to perform with it or to values and views which users associate with the ownership and use of the product.
 
-{{< figure src="/images/gen/content/content-2.webp" title="Steve Francia"  caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank">}}
+{{< framework/figure src="/images/photos/content/content-1.webp" title="Steve Francia"  caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank">}}
 
 ## Front-end Development
 
@@ -41,7 +46,7 @@ Web designers are expected to have an awareness of usability and if their role i
 
 A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
 
-{{< youtube 2M6dJ2Uynhg >}}
+{{< framework/youtube 2M6dJ2Uynhg >}}
 
 ## Process
 
@@ -51,6 +56,6 @@ There are two primary jobs involved in creating a website: the web designer and 
 - Visual design and illustration
 - Programming and coding
 
-![Design In Figma](/images/gen/content/content-3.webp)
+![Design In Figma](/images/photos/content/content-1.webp)
 
 Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another. Particularly in smaller organizations, one person will need the necessary skills for designing and programming the full web page, while larger organizations may have a web designer responsible for the visual aspect alone.

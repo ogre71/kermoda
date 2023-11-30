@@ -1,15 +1,10 @@
 ---
-title: "Sur"
+title: "About Us"
 date: 2018-11-28T15:15:34+10:00
-menu:
-  main:
-    weight: 5
-    name: "Sur"
-  footer_secondary:
-    weight: 2
-    name: "Sur"
+url: "about"
+
 description: "Business plan hackathon handshake responsive web design."
-image: "images/gen/content/content-6-thumbnail.webp"
+image: "images/photos/content/content-6.webp"
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum

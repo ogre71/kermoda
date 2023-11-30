@@ -1,45 +1,106 @@
 ---
 title: "Hugo Advance"
 date: 2019-02-22
-description: "Advance est un thème Hugo premium polyvalent. Design moderne, code propre et hautement configurable."
+description: "Advance est un thème Hugo premium polyvalent. Design moderne, code épuré et hautement configurable."
 header_transparent: true
 hero:
-  background: "images/gen/home/home-1-large.webp"
-  blend_mode: "overlay"
-  theme: "primary"
+  type: hero
+  enabled: true
+  options:
+    paddingTop: ""
+    paddingBottom: false
+    borderTop: false
+    borderBottom: false
+    theme: primary
+    classes: "my-custom-class another-custom-class"
+  align_horizontal: left
+  align_vertical: middle
+  height: 600px
+  fullscreen_mobile: true
+  fullscreen_desktop: false
+  headings:
+    heading: Hugo Advance
+    sub_heading: Advance est un thème Hugo premium polyvalent. Design moderne, code épuré et hautement configurable.
+    text: ''
+    text_color: "#FFFFFF"
+    text_color_dark: "#FFFFFF"
+  background:
+    background_image: "images/photos/home/home-large.webp"
+    background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
+    background_gradient: true
+    background_color: "" # "#030202"
+    background_color_dark: "" # "#030202" 
+    opacity: 1
+  image:
+    image: false
+    shadow: false
+    border: false
+    alt: ""
+  buttons:
+    - button:
+      text: "Learn More"
+      url: "services/"
+      external: false
+      fa_icon: false
+      outline: true
+      style: "transparent"
+    - button:
+      text: "Buy Now"
+      url: "https://www.zerostatic.io/theme/hugo-advance/"
+      external: true
+      show_external_icon: true
+      fa_icon: false
+      outline: true
+      style: "transparent"
 services:
   enabled: true
   show_view_all: true
+  sort_by: "weight" # "date" "weight"
   limit: 3
 intro:
   enabled: true
   align: left
-  image: "images/gen/content/content-5-thumbnail.webp"
-  heading: "Nous aidons l'entreprise à se développer"
-  description: "Notre logiciel permet aux clients et aux détaillants de travailler de partout dans le monde, en déplacement ou à domicile."
-  button:
-    text: "Acheter maintenant"
-    url: "https://www.zerostatic.io/theme/hugo-advance/"
-    external: true
+  image: "images/photos/content/content-5.webp"
+  heading: "We Help Business Grow"
+  description: "Our software empowers customers and retailers to work from anywhere in the world, on the go, or at home."
+  buttons:
+    - button:
+      text: "View Our Services"
+      url: "https://www.zerostatic.io/docs/hugo-advance/"
+      external: false
+      fa_icon: false
+      outline: true
+      style: "primary"
   partners:
     enabled: true
 work:
   enabled: true
-  label: "Notre portfolio"
+  label: "Our Portfolio"
   show_view_all: false
   limit: 2
 outro:
   enabled: true
   align: center
   image: ""
-  heading: "Commencer aujourd'hui"
-  description: "Économisez du temps et de l'argent en utilisant ce thème Hugo premium."
-  button:
-    text: "Acheter maintenant"
-    url: "https://www.zerostatic.io/theme/hugo-advance/"
-    external: true
+  heading: Get Started Today
+  description: Save time and money using this premium Hugo theme.
+  buttons:
+    - button:
+      text: "Buy Now"
+      url: "https://www.zerostatic.io/theme/hugo-advance/"
+      external: true
+      fa_icon: false
+      outline: false
+      style: ""
+    - button:
+      text: "Contact Us"
+      url: "contact/"
+      external: false
+      fa_icon: false
+      outline: false
+      style: ""
 blog:
-  enabled: false
+  enabled: true
   show_view_all: false
   limit: 3
 ---

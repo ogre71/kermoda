@@ -1,8 +1,7 @@
 ---
 title: 'Privacy Policy'
 date: 2021-24-01
-menu:
-  footer_secondary:
+url: "privacy"
 ---
 
 # Privacy Policy

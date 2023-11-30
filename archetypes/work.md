@@ -6,9 +6,9 @@ description: "In contrast subsymbolic processing specifies no such rules a prior
 weight: 1
 portfolio: ['research']
 header_transparent: true
-thumbnail: 'https://source./images/gen/content/content-2.webp'
+thumbnail: 'https://source./images/photos/content/content-2.webp'
 hero:
-    background: 'https://source./images/gen/content/content-2.webp'
+    background: 'https://source./images/photos/content/content-2.webp'
     blend_mode: "overlay"
     theme: "primary"
 work: 
@@ -56,7 +56,7 @@ From 2012, a group of people including Jeff Atwood and John MacFarlane launched 
 
 In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.
 
-![écrivez sans crainte](/images/gen/content/content-1.webp)
+![écrivez sans crainte](/images/photos/content/content-1.webp)
 
 ### Markdown Extra
 

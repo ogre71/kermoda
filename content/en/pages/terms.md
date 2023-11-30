@@ -1,8 +1,7 @@
 ---
 title: 'Terms and Conditions'
 date: 2021-24-01
-menu:
-  footer_secondary:
+url: "terms"
 ---
 
 # Terms and Conditions
