@@ -49,7 +49,7 @@ params:
     monospace: "'Source Code Pro'"
 
   logo:
-    logo_text: "Advance"
+    logo_text: "Kermoda"
     logo_image_desktop: images/logo/logo.svg
     logo_image_mobile: images/logo/logo-mobile.svg
     logo_image_desktop_invert: images/logo/logo-invert.svg # used on transparent header and when in dark mode. Normally a white version of the logo.
@@ -135,7 +135,7 @@ params:
   bottom:
     enabled: true
     enable_bottom_menu: true
-    copyright_text: "© 2023 Zerostatic Themes"
+    copyright_text: "© 2023 Ogresoft"
     show_rss_icon: true
 
 languages:

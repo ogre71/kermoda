@@ -19,13 +19,13 @@ hero:
   fullscreen_mobile: true
   fullscreen_desktop: false
   headings:
-    heading: Hugo Advance
-    sub_heading: Advance is a multi-purpose premium Hugo theme. Modern design, clean code and highly configurable.
+    heading: Kermoda Counseling Den
+    sub_heading: 'Finding Strength in Individuality, Warmth in Unity: Your Journey to Healing Begins Here.'
     text: ''
     text_color: "#FFFFFF"
     text_color_dark: "#FFFFFF"
   background:
-    background_image: "images/photos/home/home-large.webp"
+    #background_image: "images/photos/home/home-large.webp"
     background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
     background_gradient: true
     background_color: "" # "#030202"
@@ -44,54 +44,54 @@ hero:
       fa_icon: false
       outline: true
       style: "transparent"
-    - button:
-      text: "Buy Now"
-      url: "https://www.zerostatic.io/theme/hugo-advance/"
-      external: true
-      show_external_icon: true
-      fa_icon: false
-      outline: true
-      style: "transparent"
+    # - button:
+    #   text: "Buy Now"
+    #   url: "https://www.zerostatic.io/theme/hugo-advance/"
+    #   external: true
+    #   show_external_icon: true
+    #   fa_icon: false
+    #   outline: true
+    #   style: "transparent"
 services:
   enabled: true
   show_view_all: true
   sort_by: "weight" # "date" "weight"
   limit: 3
-intro:
-  enabled: true
-  align: left
-  image: "images/photos/content/content-5.webp"
-  heading: "We Help Business Grow"
-  description: "Our software empowers customers and retailers to work from anywhere in the world, on the go, or at home."
-  buttons:
-    - button:
-      text: "View Our Services"
-      url: "https://www.zerostatic.io/docs/hugo-advance/"
-      external: false
-      fa_icon: false
-      outline: true
-      style: "primary"
-  partners:
-    enabled: true
-work:
-  enabled: true
-  label: "Our Portfolio"
-  show_view_all: false
-  limit: 2
+# intro:
+#   enabled: true
+#   align: left
+#   image: "images/photos/content/content-5.webp"
+#   heading: "We Help Business Grow"
+#   description: "Our software empowers customers and retailers to work from anywhere in the world, on the go, or at home."
+#   buttons:
+#     - button:
+#       text: "View Our Services"
+#       url: "https://www.zerostatic.io/docs/hugo-advance/"
+#       external: false
+#       fa_icon: false
+#       outline: true
+#       style: "primary"
+#   partners:
+#     enabled: true
+# work:
+#   enabled: true
+#   label: "Our Portfolio"
+#   show_view_all: false
+#   limit: 2
 outro:
   enabled: true
   align: center
   image: ""
   heading: Get Started Today
-  description: Save time and money using this premium Hugo theme.
+  description: Begin your healing journey.
   buttons:
-    - button:
-      text: "Buy Now"
-      url: "https://www.zerostatic.io/theme/hugo-advance/"
-      external: true
-      fa_icon: false
-      outline: false
-      style: ""
+    # - button:
+    #   text: "Buy Now"
+    #   url: "https://www.zerostatic.io/theme/hugo-advance/"
+    #   external: true
+    #   fa_icon: false
+    #   outline: false
+    #   style: ""
     - button:
       text: "Contact Us"
       url: "contact/"
