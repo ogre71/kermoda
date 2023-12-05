@@ -3,10 +3,10 @@ title: "Leadership Counseling"
 date: 2023-11-11T12:31:58-05:00
 draft: false
 authors: ['Erica Rampelberg']
-categories: ['Branding']
-description: Branding is an intrinsic part of your companies success, learn why your brand matters.
-thumbnail: "images/gen/blog/blog-1-thumbnail.webp"
-image: "images/gen/blog/blog-1.webp"
+categories: ['Leadership']
+description: 
+thumbnail: 
+image: 
 ---
 
 

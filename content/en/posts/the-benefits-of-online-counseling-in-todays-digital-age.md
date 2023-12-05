@@ -3,10 +3,10 @@ title: "The Benefits of Online Counseling in Todays Digital Age"
 date: 2023-11-11T12:29:18-05:00
 draft: false
 authors: ['Erica Rampelberg']
-categories: ['Branding']
-description: Branding is an intrinsic part of your companies success, learn why your brand matters.
-thumbnail: "images/gen/blog/blog-1-thumbnail.webp"
-image: "images/gen/blog/blog-1.webp"
+categories: ['Online']
+description: 
+thumbnail: 
+image: 
 ---
 
 

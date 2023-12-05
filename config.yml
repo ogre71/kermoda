@@ -119,7 +119,7 @@ params:
     show_social_media_in_mobile_menu: true
 
   footer:
-    enable_footer: true
+    enable_footer: false
     footer_title: "Hugo Advance"
     footer_description: "Advance is a multi-purpose premium Hugo theme. Modern design, clean code and highly configurable."
     enable_social_media_links: true
@@ -155,10 +155,10 @@ languages:
           url: "/services/branding"
           params:
             icon: "images/icons/icons8-color-palette-100.png"
-        - name: "Our Work"
-          identifier: work
-          url: /work/
-          pageRef: work
+        - name: "Specializations"
+          identifier: specializations
+          url: /specializations/
+          pageRef: specializations
           weight: 2
         - name: "Blog"
           identifier: blog
@@ -170,12 +170,12 @@ languages:
           url: /about/
           pageRef: about
           weight: 4
-        - name: Buy Now
-          url: "https://www.zerostatic.io/theme/hugo-advance/"
-          weight: 10
-          params:
-            external: true
-            button: true
+        # - name: Buy Now
+        #   url: "https://www.zerostatic.io/theme/hugo-advance/"
+        #   weight: 10
+        #   params:
+        #     external: true
+        #     button: true
       footer_primary:
         - name: "Services"
           url: /services/
@@ -211,49 +211,7 @@ languages:
           url: /privacy/
           weight: 2
 
-  fr:
-    weight: 1
-    languageName: Français
-    contentDir: content/fr
-    title: Hugo Avance
-    params:
-      footer:
-        footer_primary_menu_title: Produit
-        footer_secondary_menu_title: Compagnie
-        footer_tertiary_menu_title: Support
-    menu:
-      main:
-        - name: "Prestations de service"
-          identifier: services
-          url: /services/
-          weight: 1
-        - name: "Notre Travail"
-          identifier: work
-          url: /work/
-          weight: 2
-        - name: "Blog"
-          identifier: blog
-          url: /blog/
-          weight: 3
-        - name: "À Propos"
-          identifier: about
-          url: /about/
-          weight: 4
-      footer_primary:
-        - name: "Services"
-          url: /services/
-          weight: 1
-        - name: "Work"
-          url: /work/
-          weight: 2
-      footer_tertiary:
-        - name: Buy Now
-          url: "https://www.zerostatic.io/theme/hugo-advance/"
-          weight: 10
-          params:
-            external: true
-            button: true
-
+ 
 permalinks:
   posts: "blog/:year/:month/:title/"
   pages: ":slug/"

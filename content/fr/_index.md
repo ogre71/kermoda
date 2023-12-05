@@ -44,14 +44,14 @@ hero:
       fa_icon: false
       outline: true
       style: "transparent"
-    - button:
-      text: "Buy Now"
-      url: "https://www.zerostatic.io/theme/hugo-advance/"
-      external: true
-      show_external_icon: true
-      fa_icon: false
-      outline: true
-      style: "transparent"
+    # - button:
+    #   text: "Buy Now"
+    #   url: "https://www.zerostatic.io/theme/hugo-advance/"
+    #   external: true
+    #   show_external_icon: true
+    #   fa_icon: false
+    #   outline: true
+    #   style: "transparent"
 services:
   enabled: true
   show_view_all: true
