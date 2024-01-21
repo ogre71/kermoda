@@ -2,7 +2,6 @@
 title: "Specializations"
 description: "Specializations at Kermoda Counseling Den"
 date: 2019-02-10
-url: "specializations"
 
 header_transparent: true
 
