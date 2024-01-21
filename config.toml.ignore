@@ -1,6 +1,5 @@
-baseURL = "https://hugo-advance.netlify.app"
-title = "Hugo Advance"
-theme = "hugo-advance"
+baseURL = "https://kermoda.com"
+title = "Kermoda Counseling Den"
 paginate = 3
 enableGitInfo = false
 pygmentsCodeFences = true
