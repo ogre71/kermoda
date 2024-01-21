@@ -5,6 +5,14 @@ url: "about"
 
 description: "Kermoda's Journey"
 image: 
+hero:
+  headings:
+    heading: "Kermoda's Journey"
+    sub_heading: "The road to Kermoda Counseling Den"
+  background:
+    background_image: "images/photos/home/blog-large.webp"
+    background_image_blend_mode: "overlay"
+    background_gradient: true
 ---
 
 Kermoda Counseling Den draws inspiration from the enchanting Kermode bear—a unique spirit bear recognized for its distinct white coloration among the black bear populace. This bear is a beacon of individuality, a quality we deeply resonate with and celebrate. In the bear's symbolism of strength, protection, and power, and the den's embodiment of comfort and sanctuary, we find parallels to our mission. At Kermoda, we embrace these traits, giving precedence to individual journeys, all while underscoring the vitality of unity and community. As the spirit bear traverses its path seeking meaning and connection, we, in our human voyage, endeavor to find purpose and a sense of belonging.
