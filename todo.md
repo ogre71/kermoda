@@ -6,8 +6,6 @@
 - [x] Services
 
 - [x] Specializations
-- [ ] Work
-- [ ] Team
 - [ ] Blog
 - [ ] Kermoda's Journey
 - [ ] Education and Licenses

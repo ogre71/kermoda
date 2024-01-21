@@ -5,7 +5,7 @@ draft: false
 description: "Understanding the needs of the user and creating product solutions."
 menu:
   main:
-    name: "UX"
+    name: "Why Online"
     weight: 3
     parent: "services"
 weight: 3
@@ -14,6 +14,9 @@ header_transparent: true
 #thumbnail: "images/gen/services/service-2-thumbnail.webp"
 image: ""
 hero:
+  headings:
+    heading: "Why choose online counseling?"
+    sub_heading: "Welcome to the digital age"
   #background: "images/gen/services/service-2.webp"
   blend_mode: ""
   theme: "primary"

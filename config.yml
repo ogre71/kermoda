@@ -150,11 +150,6 @@ languages:
           url: /services/
           pageRef: services
           weight: 1
-        - name: "Branding"
-          parent: "services"
-          url: "/services/branding"
-          params:
-            icon: "images/icons/icons8-color-palette-100.png"
         - name: "Specializations"
           identifier: specializations
           url: /specializations/

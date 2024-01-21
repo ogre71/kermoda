@@ -13,6 +13,9 @@ header_transparent: true
 #thumbnail: "images/gen/services/service-8-thumbnail.webp"
 image: ""
 hero:
+  headings:
+    heading: "Our approach"
+    sub_heading: ""
   #background: "images/gen/services/service-8.webp"
   blend_mode: ""
   theme: ""

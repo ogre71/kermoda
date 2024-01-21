@@ -1,7 +1,23 @@
 ---
 title: "Counseling"
 date: 2023-11-11T12:17:39-05:00
-draft: true
+draft: false
+menu:
+  main:
+    weight: 2
+    parent: "services"
+weight: 2
+header_transparent: true
+#icon: "images/icons/icons8-source_code.png"
+#thumbnail: "images/gen/services/service-8-thumbnail.webp"
+image: ""
+hero:
+  headings:
+    heading: "Counseling"
+    sub_heading: ""
+  #background: "images/gen/services/service-8.webp"
+  blend_mode: ""
+  theme: ""
 ---
 
 Personalized sessions to navigate life's challenges, traumas, and questions.

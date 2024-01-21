@@ -11,6 +11,9 @@ weight: 4
 #icon: "images/icons/icons8-adobe_indesign.png"
 #thumbnail: "images/gen/services/service-3-thumbnail.webp"
 hero:
+  headings:
+    heading: "Begin Healing"
+    sub_heading: ""
   #background: "images/gen/services/service-3.webp"
   blend_mode: "normal"
   theme: "base"
