@@ -1,5 +1,5 @@
 ---
-title: "Hugo Advance"
+title: "Kermoda Counseling"
 date: 2019-02-22
 description: "Advance is a <strong>multi-purpose premium Hugo theme.</strong> Modern design, clean code and highly configurable."
 header_transparent: true

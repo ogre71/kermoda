@@ -120,8 +120,8 @@ params:
 
   footer:
     enable_footer: false
-    footer_title: "Hugo Advance"
-    footer_description: "Advance is a multi-purpose premium Hugo theme. Modern design, clean code and highly configurable."
+    #footer_title: "Hugo Advance"
+    #footer_description: "Advance is a multi-purpose premium Hugo theme. Modern design, clean code and highly configurable."
     enable_social_media_links: true
     enable_languages: true
     enable_copyright: false
