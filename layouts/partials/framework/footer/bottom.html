@@ -4,7 +4,7 @@
     <div class="row align-items-center justify-content-between">
       <div class="col-auto">
         {{ if .Site.Params.bottom.enable_bottom_menu }}
-          {{ partial "framework/menu/menu-bottom.html" . }}
+          <!--{{ partial "framework/menu/menu-bottom.html" . }}-->
         {{ end }}
         {{ if and (.Site.Params.cookie_banner.enabled) (.Site.Params.cookie_banner.show_manage_cookies_at_bottom) }}
           <a href="#" data-cc="c-settings">Cookies</a>
