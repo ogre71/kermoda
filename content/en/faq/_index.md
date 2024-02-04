@@ -23,4 +23,3 @@ hero:
 ---
 
 
-this is the FAQ
