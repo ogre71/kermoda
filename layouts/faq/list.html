@@ -26,6 +26,7 @@
     {{ $pages := .Pages }}
     {{ $pagesCount := len $pages }}
     {{ $summaryType := .Params.summary_type }}
+    <p>hello world {{ $pagesCount }}</p>
     {{ if gt ($pagesCount) 0 }}
         <div class="section">
             <div class="container ">
