@@ -4,6 +4,7 @@
 
 {{ define "main" }}
 
+    <p>hello world after main </p>
     {{ if .Params.hero }}
         {{ partial "framework/sections/hero/hero.html" (dict "context" $ "hero" .Params.hero) }}
     {{ else }}
