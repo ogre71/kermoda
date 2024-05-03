@@ -3,8 +3,6 @@
 {{ define "header_classes" }}{{ end }}
 
 {{ define "main" }}
-
-    <p>hello world after main </p>
     {{ if .Params.hero }}
         {{ partial "framework/sections/hero/hero.html" (dict "context" $ "hero" .Params.hero) }}
     {{ else }}
@@ -24,10 +22,10 @@
         </div>
     {{ end }}
 
+    {{ .GetPages}}
     {{ $pages := .Pages }}
     {{ $pagesCount := len $pages }}
     {{ $summaryType := .Params.summary_type }}
-    <p>hello world {{ $pagesCount }}</p>
     {{ if gt ($pagesCount) 0 }}
         <div class="section">
             <div class="container ">

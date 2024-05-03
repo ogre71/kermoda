@@ -1,7 +1,7 @@
 ---
 title: "How Do Online Sessions Work"
 date: 2023-11-11T12:23:07-05:00
-draft: true
+draft: false
 ---
 
 **The Comfort of Online Counseling**: Embrace the flexibility of online sessions with Kermoda Counseling Den. Our digital platform ensures you can access our expert counseling services from anywhere, providing a seamless and convenient therapeutic experience. Here's how to ensure a smooth online session:

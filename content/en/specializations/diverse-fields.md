@@ -1,7 +1,7 @@
 ---
 title: "Diverse Fields"
 date: 2023-11-11T12:21:51-05:00
-draft: true
+draft: false
 ---
 
 - **Experience in Diverse Fields**
